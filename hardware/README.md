@@ -32,3 +32,15 @@ Amazon (amazon.com)
 | Part | Part Number | Quantity | Price ea | Price |
 | :---: | :---: | :---: | :---: | :---: |
 | WS2812B | --- | 100 | ~0.10 | ~10.00 |
+
+
+JLC PCB (jlcpcb.com)
+
+
+
+| Part | Part Number | Quantity | Price ea | Price |
+| :---: | :---: | :---: | :---: | :---: |
+| Side PCB | --- | 4 | --- | 2.00 |
+| Top PCB | --- | 1 | --- | 4.00 |
+| Bottom PCB | --- | 1 | --- | 4.00 |
+
