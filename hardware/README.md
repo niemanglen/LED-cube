@@ -15,3 +15,11 @@ Tayda electronics (taydaelectronics.com)
 | Battery Conn. Female | A-826 | 1 | 0.02 | 0.02 |
 | Battery Conn. Male | A-804 | 1 | 0.02 | 0.02 |
 | Crimp | A-837 | 2 | 0.03 | 0.06 |
+
+
+Newark (newark.com)
+
+
+| Part | Part Number | Quantity | Price ea | Price |
+| :---: | :---: | :---: | :---: | :---: |
+| ATMEGA328PB-AU | 58Y6083 | 1 | 1.61 | 1.61 |
