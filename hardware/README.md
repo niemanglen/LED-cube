@@ -23,3 +23,12 @@ Newark (newark.com)
 | Part | Part Number | Quantity | Price ea | Price |
 | :---: | :---: | :---: | :---: | :---: |
 | ATMEGA328PB-AU | 58Y6083 | 1 | 1.61 | 1.61 |
+
+
+
+Amazon (amazon.com)
+
+
+| Part | Part Number | Quantity | Price ea | Price |
+| :---: | :---: | :---: | :---: | :---: |
+| WS2812B | --- | 100 | ~0.10 | ~10.00 |
