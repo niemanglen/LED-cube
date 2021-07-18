@@ -8,3 +8,4 @@ LFUSE: 0xe2
 
 HFUSE: 0xd1
 
+I have always used Arduino as ISP. The pcb programmer board is helpful if you are trying to avoid the wiring.
