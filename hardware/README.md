@@ -1,3 +1,6 @@
+Shipping will add up very quickly. I recommend buying extra supplies in case some get messed up. Getting more of the pcb's does not greatly increase their price. Consider getting multiple pcb's and building more than one cube. The Memory IC is also optional and not currently used in the code.
+
+
 # Parts vendors:
 
 Tayda electronics (taydaelectronics.com)
