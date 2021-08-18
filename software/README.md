@@ -1,6 +1,6 @@
 # Hardware Considerations:
 
-The pcb's have an ATMEGA328PB chip. Its datasheet can be found here.
+The pcb's have an ATMEGA328PB chip. Its datasheet can be found <a href="https://www.farnell.com/datasheets/2915218.pdf">here</a>.
 
 The fuses need to be burned to use the internal oscillator at 8MHz. Additionally, preserving EEPROM after write is useful.
 
